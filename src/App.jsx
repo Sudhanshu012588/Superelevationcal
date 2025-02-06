@@ -23,7 +23,7 @@ const Superelevation = () => {
   };
 
   return (
-    <div className="container mx-auto p-4">
+    <div className="flex flex-col item-center justify-center container mx-auto p-4">
       <h1 className="text-2xl font-bold mb-4">Superelevation Calculation</h1>
       <div className="mb-4">
         <label className="block mb-2">Curve Radius (m):</label>
